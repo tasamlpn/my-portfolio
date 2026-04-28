@@ -8,12 +8,7 @@
 python3 -m http.server 5173
 ```
 
-ブラウザで `http://localhost:5173` を開くと表示されます。
-
-## 差し替えるところ
-
-- **GitHubリンク**: `index.html` の「連絡先 > GitHub」を自分のURLに変更
-- **メール**: `index.html` の `mailto:` と表示メールアドレスを自分のものに変更
+ブラウザで `http://localhost:5173` を開くと表示されます
 
 ## ファイル構成
 
